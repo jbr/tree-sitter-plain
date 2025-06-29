@@ -1,0 +1,23 @@
+Welcome to our project!
+
+This is a simple text file that we can use to test the new plain text editor functionality. It has multiple paragraphs separated by blank lines and demonstrates how the tree-sitter plain parser works with unstructured text.
+
+Here's another paragraph with some information about the project. This paragraph is longer and contains more detailed information about what we're trying to accomplish.
+
+Some key features:
+- Easy to use semantic editing
+- Support for multiple file formats
+- Tree-sitter based parsing
+- Node-level operations
+Perfect! The plain text editor is working great.
+
+Let's see how the editor handles this content!
+
+```fenced
+
+this
+
+is
+
+code
+```
